@@ -51,7 +51,7 @@ six==1.15.0
 sqlparse==0.3.1
 tornado==4.5.3
 uritemplate==3.0.1
-urllib3==1.25.7
+urllib3==1.26.18
 uWSGI==2.0.18
 django_mysql
 json5==0.9.5
